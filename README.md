@@ -1,6 +1,6 @@
 **GABRIEL MACIEL DE MORAIS**
 
-**Configuração do Nginx como Balanceador de Carga para Jenkins com SSL e Proxy Reverso**
+# Configuração do Nginx como Balanceador de Carga para Jenkins com SSL e Proxy Reverso
 
 Este é um guia passo a passo sobre como configurar o Nginx como um balanceador de carga para o Jenkins, implementar a criptografia SSL para o domínio "jenkins.gabrielmoraislabs.com" e configurar um proxy reverso para encaminhar o tráfego para o Jenkins.
 
