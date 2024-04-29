@@ -173,12 +173,16 @@ sudo tail -f /var/log/nginx/access.log
 
 ## Provas Visuais
 
+![JENKINS1](https://github.com/Gabrielmmorais/Teste-Poder360-GabrielMorais-DEV-INFRA--TESTE1/assets/79981718/167a1075-9fae-417d-83a4-76d185566ffa)
 *Instalação do jenkins dentro de uma EC2 micro apenas para o lab.*
 
+![jenkins2](https://github.com/Gabrielmmorais/Teste-Poder360-GabrielMorais-DEV-INFRA--TESTE1/assets/79981718/61ef6f14-31e7-4a5b-a760-6ad46f26536f)
 *Instalação do Nginx*
 
+![jenkins3](https://github.com/Gabrielmmorais/Teste-Poder360-GabrielMorais-DEV-INFRA--TESTE1/assets/79981718/ff18653a-e9e1-4166-83a5-657b80e33c56)
 *Jenkins rodando com https ativo e por meio de proxy reverso no domínio passando pelo NGINX para melhor segurança.*
 
+![JENKINS4](https://github.com/Gabrielmmorais/Teste-Poder360-GabrielMorais-DEV-INFRA--TESTE1/assets/79981718/f0a00a44-4887-4b19-a005-6beb204c4008)
 *Testes de conexão a aplicação por diferentes portas do Load Balancer.*
 
 
